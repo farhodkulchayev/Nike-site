@@ -84,7 +84,15 @@
 
 @media (max-width: 684px) {}
 
-@media (max-width: 667px) {}
+@media (max-width: 667px) {
+  
+  .footer_container {
+    flex-direction: column;
+    align-items: center;
+    row-gap: 30px;
+  }
+  
+}
 
 @media (max-width: 576px) {
 

@@ -92,7 +92,6 @@ a {
 .products {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
 }
 
 .products_desc {
